@@ -1,0 +1,15 @@
+{
+  "name": "some_code_nodejs",
+  "version": "1.0.0",
+  "description": "some code on nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Ander",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
